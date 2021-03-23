@@ -25,6 +25,7 @@ The following findings were made during the analysis:
 5. Being a superhost has no affect on the occupancy rate of the listings.  
 6. Amenities such as an airbed, a couch, a real-bed, a pull out sofa and a futon were revealed as predictors for the listing price of homes on airbnb in Seattle for 2016.  
 7. Northgate, Rainier Valley, Interbay, Delridge, Beacon Hill and Seward park were revealed as the predictors for the listing price of homes on airbnb in Seattle for 2016.  
+8. A blog post can be found at the following link: https://dirklambrechts4.medium.com/seattle-airbnb-data-analysis-90f987986d8f  
 
 ## Acknowledgements
 No acknowledgements necessary.  
